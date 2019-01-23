@@ -1,0 +1,9 @@
+.col-date {
+  text-align: center;
+  width: 120px;
+}
+
+.col-value {
+  text-align: right;
+  width: 120;
+}
